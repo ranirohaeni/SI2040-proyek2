@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517014872628",
+    "project_id": "ecommerceappuas",
+    "storage_bucket": "ecommerceappuas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517014872628:android:a7a8e06eb3e3551c0f2061",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceuas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517014872628-549o599a8rcfgvb1g0ard1v91tgqpqp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALqIqKu3Pw_QuADreMgF7ZeprCLAMugvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517014872628-549o599a8rcfgvb1g0ard1v91tgqpqp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
